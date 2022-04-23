@@ -1,4 +1,4 @@
-# Agora-Video
+# Agora Video
 Experimenting with the technology of adding real-time render from the computer's webcam to a project.<br />
 [Agora](https://www.agora.io/en/unity/)
 
